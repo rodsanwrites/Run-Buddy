@@ -102,7 +102,7 @@ header {
             background-position: center; position: relative;
           }
 
-      .hero-form {font-color: #024e76; background-color:#fce138;
+      .hero-form {text-decoration-color: #024e76; background-color:#fce138;
         padding: 20px;
         width: 500px; position: absolute; bottom: 140px; right: 120px
       

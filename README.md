@@ -1,4 +1,4 @@
-#Run buddy inc
+#Run buddy, inc
 
 # Run-Buddy
 
